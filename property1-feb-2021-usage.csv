@@ -1,0 +1,29 @@
+READ DATE,CONSUMPTION(KWH),SOLD TO GRID(KWH)
+01 February 2021,3.06,6.99
+02 February 2021,2.64,9.95
+03 February 2021,3.24,18.66
+04 February 2021,2.24,11.59
+05 February 2021,3.15,10.44
+06 February 2021,1.99,10.38
+07 February 2021,4.04,8.77
+08 February 2021,5.64,8.91
+09 February 2021,3.02,17.90
+10 February 2021,2.51,17.14
+11 February 2021,2.33,7.82
+12 February 2021,2.77,8.89
+13 February 2021,6.66,8.22
+14 February 2021,2.13,10.91
+15 February 2021,3.85,14.97
+16 February 2021,2.90,12.64
+17 February 2021,2.98,12.67
+18 February 2021,2.19,15.23
+19 February 2021,3.66,11.73
+20 February 2021,3.04,9.94
+21 February 2021,2.54,3.54
+22 February 2021,3.43,6.92
+23 February 2021,6.53,13.02
+24 February 2021,Not available,Not available
+25 February 2021,Not available,Not available
+26 February 2021,Not available,Not available
+27 February 2021,Not available,Not available
+28 February 2021,Not available,Not available
